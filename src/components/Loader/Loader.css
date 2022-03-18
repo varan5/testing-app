@@ -1,0 +1,10 @@
+.loader-view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader-gif {
+  height: 200px;
+  width: 200px;
+}

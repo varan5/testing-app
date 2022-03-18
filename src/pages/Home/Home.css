@@ -1,0 +1,13 @@
+.features-card-container:hover {
+  background-size: 100% 100%;
+}
+
+.features-card-container {
+  padding: 1.5em;
+  border: 0px #ddd solid;
+  background: linear-gradient(to right, #eee, #eee);
+  background-repeat: no-repeat;
+  background-size: 0 100%;
+  transition: background-size 1s 0s;
+  border-radius: 15px;
+}

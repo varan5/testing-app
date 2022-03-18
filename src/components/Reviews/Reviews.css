@@ -1,0 +1,27 @@
+.review-author-text {
+  color: teal;
+  font-weight: 600;
+}
+
+.review-author-text:hover {
+  color: teal;
+  font-weight: 700;
+}
+
+.review-container:hover {
+  background-size: 100% 100%;
+}
+
+.review-container {
+  padding: 0.75em;
+  border: 0px #ddd solid;
+  background: linear-gradient(to right, #eee, #eee);
+  background-repeat: no-repeat;
+  background-size: 0 100%;
+  transition: background-size 1s 0s;
+  border-radius: 15px;
+}
+
+.review-title-text:hover {
+  font-weight: 600;
+}
